@@ -18,6 +18,7 @@
   border-right: 1px solid var(--colorBorder);
   background-color: var(--colorBgAlphaBlur);
   z-index: 1;
+<<<<<<< HEAD
 }
 #panels-container.left:not(.icons) .panel-group,
 #panels-container.left.icons:not(:has(.SlideBar)) {
@@ -26,3 +27,6 @@ border-right: 1px solid  var(--colorBorder);
 #panels-container.left:not(.icons).overlay .panel-group {
 box-shadow: 4px 0 8px -4px rgba(0, 0, 0, 0.25);
 }
+=======
+}
+>>>>>>> 73819a2 (initial commit)
