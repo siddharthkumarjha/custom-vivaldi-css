@@ -1,9 +1,9 @@
 # custom-vivaldi-css
 
-👋 Hello everyone, I’m [@siddharthkumarjha](https://github.com/siddharthkumarjha) <br>
-&emsp; A while back I created and uploaded a [Vivaldi theme](https://themes.vivaldi.net/themes/Qbnlj4pmJ2m) called Hogwarts!! 🏰<br>
-&emsp; However, the regular updates keep messing with the perfect theme that I have and we can't have that now can we!!<br>
-&emsp; So, I decided to create a custom CSS file that keeps combating with the constant updates and the breaking theme.
+👋 Hello everyone, I’m [@siddharthkumarjha](https://github.com/siddharthkumarjha)
+A while back I created and uploaded a [Vivaldi theme](https://themes.vivaldi.net/themes/Qbnlj4pmJ2m) called Hogwarts!! 🏰
+However, the regular updates keep messing with the perfect theme that I have and we can't have that now can we!!
+So, I decided to create a custom CSS file that keeps combating ⚔️ with the constant updates and the breaking theme.
 
 ## How to use this custom CSS?
 
