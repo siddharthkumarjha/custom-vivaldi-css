@@ -9,13 +9,13 @@ So, I decided to create a custom CSS file that keeps combating ⚔️ with the c
 
 For those who don't know how to use custom CSS in vivaldi:
 
-1. Download the ```trial.css``` file from repo
+1. Download the ```trial.css``` file from repo :octocat:
 2. Create an empty folder and store the ```.css``` file there.
 2. open vivaldi and type ```vivaldi://experiments/``` in the address field.
-3. make sure the checkbox next to the option ```Allow using CSS modification``` is ticked.
+3. make sure the checkbox next to the option ```Allow using CSS modification``` is ticked, i.e., :ballot_box_with_check:.
 4. next open vivaldi settings or if you can't find the settings icon type ```vivaldi://settings/``` in the URL bar.
-5. once there go to ```Appearance``` &rarr; ```custom UI modifications``` and click ```select folder``` and select the folder where the css file is kept.
-6. click OK and you are done you might need to reload the browser for the custom css to work.
+5. once there go to ```Appearance``` &rarr; ```custom UI modifications``` and click ```select folder``` and select the folder :open_file_folder: where the css file is kept.
+6. click OK and you are done you might need to reload ${\color{red}↻}$ the browser :globe_with_meridians: for the custom css to work.
 
 ## Suggestions for better user experience
 
