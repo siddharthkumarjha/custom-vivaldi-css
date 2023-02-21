@@ -23,6 +23,3 @@
 #panels-container.left.icons:not(:has(.SlideBar)) {
 border-right: 1px solid  var(--colorBorder);
 }
-#panels-container.left:not(.icons).overlay .panel-group {
-box-shadow: 4px 0 8px -4px rgba(0, 0, 0, 0.25);
-}
