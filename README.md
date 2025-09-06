@@ -9,7 +9,7 @@ So, I decided to create a custom CSS file that keeps combating ⚔️ with the c
 
 For those who don't know how to use custom CSS in vivaldi:
 
-1. Download the ```trial.css``` file from repo :octocat:
+1. Download the ```main.css``` file from repo :octocat:
 2. Create an empty folder and store the ```.css``` file there.
 2. open vivaldi and type ```vivaldi://experiments/``` in the address field.
 3. make sure the checkbox next to the option ```Allow using CSS modification``` is ticked, i.e., :ballot_box_with_check:.
